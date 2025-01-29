@@ -52,4 +52,4 @@ Neste trabalho não será considerada a implementação completa do software. O 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
+  Protótipos para as páginas de login e página inicial foram elaborados, e podem ser encontrados em https://www.figma.com/design/8qOTEyMJBoKdnYhTZe3sI3/Sistema-de-Gerenciamento-de-Evento-do-ICEA?node-id=0-1&t=wyoRocqT0g3cl3b6-1
