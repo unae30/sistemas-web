@@ -47,7 +47,7 @@ Autenticação: vinculo a autenticação da plataforma Minha Ufop
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 
-Neste trabalho não serão considerada a implementação completa do software. O projeto será continuado no trabalho de conclusão de curso.
+Neste trabalho não será considerada a implementação completa do software. O projeto será continuado no trabalho de conclusão de curso.
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
