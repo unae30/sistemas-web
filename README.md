@@ -28,15 +28,18 @@ Os objetivos específicos incluem:
 
 Este projeto terá as seguintes funcionalidades: 
 
-- Cadastro e Autenticação de Usuários: registro de usuários com diferentes perfis (estudantes, professores, administradores), login seguro com autenticação via senha e, possivelmente, integração com o sistema da instituição.
+- ##Cadastro e Autenticação de Usuários: 
+registro de usuários com diferentes perfis (estudantes, professores, administradores), login seguro com autenticação via senha e, possivelmente, integração com o sistema da instituição.
 
-- Gerenciamento de Eventos: cadastro de eventos com informações detalhadas (nome, data, local, descrição, responsáveis), solicitação de agendamento diretamente pela plataforma, aprovação e gerenciamento de solicitações pela administração do ICEA, controle de materiais necessários para cada evento.
+- ##Gerenciamento de Eventos:
+cadastro de eventos com informações detalhadas (nome, data, local, descrição, responsáveis), solicitação de agendamento diretamente pela plataforma, aprovação e gerenciamento de solicitações pela administração do ICEA, controle de materiais necessários para cada evento.
 
-- Consulta e Notificação: visualização da agenda de eventos confirmados, sistema de notificações para lembrar e informar os usuários sobre seus eventos.
+- ##Consulta e Notificação: visualização da agenda de eventos confirmados, sistema de notificações para lembrar e informar os usuários sobre seus eventos.
 
-- Relatórios e Administração: feedback dos usuários, gerenciamento de permissões dos usuários administrativos.
+- Relatórios e Administração:
+feedback dos usuários, gerenciamento de permissões dos usuários administrativos.
 
-Tecnologias Previstas: 
+##Tecnologias Previstas: 
 Backend: Python (Django/Flask) ou Node.js
 Frontend: Vue.js ou React
 Autenticação: vinculo a autenticação da plataforma Minha Ufop
