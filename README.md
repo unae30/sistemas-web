@@ -40,9 +40,23 @@ cadastro de eventos com informações detalhadas (nome, data, local, descrição
 feedback dos usuários, gerenciamento de permissões dos usuários administrativos.
 
 **Tecnologias Previstas:**
-Backend: Python (Django/Flask) ou Node.js
-Frontend: Vue.js ou React
-Autenticação: vinculo a autenticação da plataforma Minha Ufop
+*FRONT:*
+TypeScript - Linguagem principal, oferecendo tipagem estática para melhor segurança e desenvolvimento
+JavaScript - Base da linguagem TypeScript
+HTML - Estruturação do conteúdo
+CSS - Estilização (via Tailwind CSS)
+
+Next.js 14 - Framework React com App Router para renderização híbrida (SSR/CSR)
+React 18 - Biblioteca para construção de interfaces de usuário
+Tailwind CSS - Framework CSS utilitário para estilização rápida e responsiva
+
+*BACK*
+JavaScript (ES6+) - Linguagem principal utilizada para o desenvolvimento do backend.
+Node.js - Ambiente de execução para JavaScript no lado do servidor.
+Express.js - Framework web minimalista para criar rotas e gerenciar requisições HTTP.
+
+*BD*
+SQLite - Banco de dados leve e embutido, utilizado para armazenar os dados do projeto.
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
@@ -53,3 +67,18 @@ Neste trabalho não será considerada a implementação completa do software. O 
 ### 4. Protótipo
 
   Protótipos para as páginas de login e página inicial foram elaborados, e podem ser encontrados em https://www.figma.com/design/8qOTEyMJBoKdnYhTZe3sI3/Sistema-de-Gerenciamento-de-Evento-do-ICEA?node-id=0-1&t=wyoRocqT0g3cl3b6-1
+
+### 5. Conclusão
+
+Como está explícito nas 'Restrições', este projeto se inicia na disciplina de Sistemas Web 1 e termina na conclusão do TCC 2. Portanto, para a disciplina eu implementei parte das funcionalidades: 
+
+- Modelagem de BD para: usuarios (ainda não possui adm) e eventos (ainda não possui aprovação por adm) 
+- Tela de login
+- Tela de visualização dos eventos
+- Tela de gerenciamento de eventos (de acordo com o id do usuario)
+- Tela de agendamento de eventos
+
+<img src="img/tela-login.png" alt="agendar">
+<img src="img/tela-visualizacao.png" alt="agendar">
+<img src="img/agendar-tela.png" alt="agendar">
+<img src="img/gerenciar-tela.png" alt="agendar">
